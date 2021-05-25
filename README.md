@@ -5,6 +5,9 @@ Used [tabnet](https://github.com/dreamquark-ai/tabnet) with multilabel stratifie
 Used rankgauss for preprocessing.
 ### Feature Engineering
 Used PCA for feature engineering
+### Results
+![alt text](tabnet.jpg)
+
 
 ## References
 - https://www.kaggle.com/hiramcho/moa-tabnet-with-pca-rank-gauss
