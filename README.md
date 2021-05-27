@@ -6,5 +6,7 @@ Implemented neural network from scratch using numpy to detect pneumonia in x-ray
 ![alt text](loss.png)
 
 ## Results
+
 Training Accuracy: 74.29
+
 Testing Accuracy: 59.77
