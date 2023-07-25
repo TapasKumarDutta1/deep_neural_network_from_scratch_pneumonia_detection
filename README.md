@@ -37,9 +37,3 @@ The model provided in this repository is for educational and research purposes o
 
 
 
-
-
-## References
-- Andrew Ng
-- https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/
-- https://stackoverflow.com/
