@@ -1,4 +1,5 @@
 # Pneumonia Detection from x-ray images
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
 ## General Overview
