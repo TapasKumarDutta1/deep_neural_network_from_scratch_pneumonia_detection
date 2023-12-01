@@ -26,7 +26,8 @@ Training Accuracy: 74.29
 Testing Accuracy: 59.77
 
 
-## Training Link: https://www.kaggle.com/code/tapaskd123/makes-sense-mean-1?scriptVersionId=52788655
+## Training Link
+https://www.kaggle.com/code/tapaskd123/makes-sense-mean-1?scriptVersionId=52788655
 
 
 
