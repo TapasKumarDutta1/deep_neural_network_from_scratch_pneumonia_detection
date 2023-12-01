@@ -3,7 +3,7 @@
 
 
 ## General Overview
-This repository contains a Python implementation of a Convolutional Neural Network (CNN) for classifying chest X-ray images into two categories: pneumonia-positive and pneumonia-negative. The network consists of multiple layers, including convolutional, max-pooling, and fully connected (dense) layers.
+This repository contains a Python implementation of a Convolutional Neural Network (CNN) for classifying chest X-ray images into two categories: pneumonia-positive and pneumonia-negative. The network consists of multiple layers, including convolutional, max-pooling, and fully connected (dense) layers. Implemented entirely from scratch using numpy.
 
 ## Dataset
 The dataset used for training and evaluation consists of chest X-ray images collected from different sources. It is divided into two classes: pneumonia-positive and pneumonia-negative.
