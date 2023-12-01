@@ -17,7 +17,7 @@ The CNN model used for pneumonia classification has the following architecture:
 4. Fully Connected (Dense) Layer: A fully connected layer with sigmoid activation to produce the final classification probability.
 
 ## Loss curve
-![alt text](loss.png)
+![alt text](images/loss.png)
 
 ## Results
 
