@@ -26,11 +26,7 @@ Training Accuracy: 74.29
 Testing Accuracy: 59.77
 
 
-## Acknowledgements
-The implementation is based on the principles of deep learning and the CNN architecture used for image classification tasks. The dataset used in this repository is based on publicly available chest X-ray images for pneumonia classification.
-
-## Disclaimer
-The model provided in this repository is for educational and research purposes only. It is not intended to be used for medical diagnosis or treatment. Please consult a qualified healthcare professional for any medical concerns or conditions.
+## Training Link: https://www.kaggle.com/code/tapaskd123/makes-sense-mean-1?scriptVersionId=52788655
 
 
 
